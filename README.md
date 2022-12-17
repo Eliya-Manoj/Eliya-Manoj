@@ -1,6 +1,6 @@
 [<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"
      alt="Download from GitHub"
-     height="60">](https://github.com/Eliya-Manoj)
+     height="60">](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FEliya-Manoj)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"
      alt="Join Telegram Channel"
