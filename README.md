@@ -6,9 +6,10 @@
      alt="Telegram"
      height="60">](https://t.me/eliya_manoj)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" Instagram
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
      alt="Instagram"
      height="60">](https://www.instagram.com/eliya_manoj/)
+     instagram
 
 <!--
 **Eliya-Manoj/Eliya-Manoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
