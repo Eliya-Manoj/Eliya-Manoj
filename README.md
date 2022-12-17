@@ -5,6 +5,10 @@
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"
      alt="Join Telegram Channel"
      height="60">](https://t.me/eliya_manoj)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="[https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)"
+     alt="Join Telegram Channel"
+     height="60">](https://t.me/eliya_manoj)
 
 <!--
 **Eliya-Manoj/Eliya-Manoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
